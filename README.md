@@ -1,4 +1,4 @@
-SparklingCthulhuDemoBot
-=======================
+#demo bot
 
-Demo bot used for presentations and exhibitions 
+
+more to come

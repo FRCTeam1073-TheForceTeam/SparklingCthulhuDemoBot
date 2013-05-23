@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+#Exclude PPC603 and PPC32 directories
+
+PPC603gnu/
+PPC603/
+PPC32/
